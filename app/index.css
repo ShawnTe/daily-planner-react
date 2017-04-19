@@ -11,13 +11,13 @@ li {
 }
 
 .container {
-  background-color: yellow;
   font-family: 'Futura';
-  max-width: 800px;
+  max-width: 500px;
   margin: 0 auto;
 }
 
 .brainjuices {
+  background-color: yellow;
   display: flex;
   justify-content: center;
 }
@@ -27,6 +27,9 @@ li {
   cursor: pointer;
 }
 
+.projectsxxx {
+  background-color: pink;
+}
 a:active {
   color: red;
 }
